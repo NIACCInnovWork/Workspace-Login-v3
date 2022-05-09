@@ -1,0 +1,8 @@
+{
+    "name": "Punch In V2 JS",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "InnovationUser",
+    "contributors": [],
+    "dependencies": {"xlsx": "0.18.5"}
+}
